@@ -1,0 +1,5 @@
+C:/Users/paulw/Documents/QTProject/build-qt6_hello-Desktop_Qt_6_0_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/paulw/Documents/QTProject/build-qt6_hello-Desktop_Qt_6_0_3_MinGW_64_bit-Debug/CMakeFiles/qt6_hello.dir
+C:/Users/paulw/Documents/QTProject/build-qt6_hello-Desktop_Qt_6_0_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/paulw/Documents/QTProject/build-qt6_hello-Desktop_Qt_6_0_3_MinGW_64_bit-Debug/CMakeFiles/qt6_hello_autogen_timestamp_deps.dir
+C:/Users/paulw/Documents/QTProject/build-qt6_hello-Desktop_Qt_6_0_3_MinGW_64_bit-Debug/CMakeFiles/qt6_hello_autogen.dir
